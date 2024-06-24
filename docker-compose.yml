@@ -16,6 +16,6 @@ services:
     ports:
       - 1113:1113
       - 2113:2113
-    volumes:
-      - ./volumes/eventstore/data:/var/lib/eventstore
-      - ./volumes/eventstore/log:/var/log/eventstore
+   # volumes:
+   #   - ./volume/eventstore/data:/var/lib/eventstore
+   #   - ./volume/eventstore/log:/var/log/eventstore
