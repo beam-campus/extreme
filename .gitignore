@@ -26,8 +26,5 @@ extra-*.tar
 .elixir_ls/
 .history/
 .vscode/
-
-
-
-
+volume/
 /volumes/
