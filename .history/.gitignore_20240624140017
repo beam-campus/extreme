@@ -23,6 +23,7 @@ erl_crash.dump
 extra-*.tar
 
 # asdf settings
+.tool-versions*
 .elixir_ls
 
 /volumes/
